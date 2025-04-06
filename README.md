@@ -37,7 +37,7 @@ Before running the project, you need the following tools installed on your local
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/pokemon-api.git
+git clone https://github.com/DanielM3218/pokemom-repo.git
 ```
 
 ### 2. Build the Project
@@ -45,7 +45,7 @@ git clone https://github.com/yourusername/pokemon-api.git
 Navigate to the project directory and use **Gradle** to build the project:
 
 ```bash
-cd pokemon-api
+cd /Downloads/pokemonfinal
 ./gradlew build
 ```
 
@@ -171,6 +171,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Tailoring the README
 
-Feel free to update the repository URL (`https://github.com/yourusername/pokemon-api.git`) with the actual URL of your project and add more detailed setup or customization instructions if needed!
+Feel free to update the repository URL (`https://github.com/DanielM3218/pokemom-repo.git`) with the actual URL of your project and add more detailed setup or customization instructions if needed!
 
 Let me know if you'd like me to help with anything else!
