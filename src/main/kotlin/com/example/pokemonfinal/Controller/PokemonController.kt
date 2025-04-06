@@ -1,7 +1,7 @@
 package com.example.pokemonfinal.Controller
 
 import com.example.pokemonfinal.Model.Pokemon
-import com.example.pokemonfinal.Service.PokemonService
+import com.example.pokemonfinal.service.PokemonService
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*
 

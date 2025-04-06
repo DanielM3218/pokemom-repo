@@ -1,4 +1,4 @@
-package com.example.pokemonfinal.Service
+package com.example.pokemonfinal.service
 
 import com.example.pokemonfinal.Model.Pokemon
 import org.springframework.stereotype.Service
